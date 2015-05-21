@@ -1,0 +1,4 @@
+C:\Git\RobotWars\RobotWars.Domain\bin\Debug\RobotWars.Domain.dll
+C:\Git\RobotWars\RobotWars.Domain\bin\Debug\RobotWars.Domain.pdb
+C:\Git\RobotWars\RobotWars.Domain\obj\Debug\RobotWars.Domain.dll
+C:\Git\RobotWars\RobotWars.Domain\obj\Debug\RobotWars.Domain.pdb
